@@ -1,0 +1,7 @@
+data
+.ipynb_checkpoints
+.venv
+test_predictions.csv
+train_img_data.npz
+train_img_labels.npy
+test_predictions.csv
